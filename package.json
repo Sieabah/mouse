@@ -1,6 +1,6 @@
 {
   "name": "@sieabah/mouse",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A high quality mouse event binding library that treats the mouse like a first class citizen object.",
   "main": "Mouse.js",
   "private": false,
